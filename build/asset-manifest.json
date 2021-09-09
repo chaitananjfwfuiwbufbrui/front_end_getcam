@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6ef9da7.chunk.css",
+    "main.js": "/static/js/main.d0165454.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.1d6be946.js",
+    "static/css/2.d74fb1de.chunk.css": "/static/css/2.d74fb1de.chunk.css",
+    "static/js/2.3cc97779.chunk.js": "/static/js/2.3cc97779.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.3cc97779.chunk.js.LICENSE.txt": "/static/js/2.3cc97779.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Get Cam.a03a649f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d6be946.js",
+    "static/css/2.d74fb1de.chunk.css",
+    "static/js/2.3cc97779.chunk.js",
+    "static/css/main.c6ef9da7.chunk.css",
+    "static/js/main.d0165454.chunk.js"
+  ]
+}
